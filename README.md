@@ -1,7 +1,7 @@
 # ข้อสอบกลางภาค (ภาคปฏิบัติ) · วิชา DevOps 30901-2008
 ### วิทยาลัยเทคนิคเลย · แผนกวิชาเทคโนโลยีสารสนเทศ
 
-![CI - compuroom](https://github.com/Lazy1968/midterm-devops-compuroom-68319010010/actions/workflows/ci.yml/badge.svg)
+![CI - compuroom](https://github.com/Lazy1968/compuroom-68319010010/actions/workflows/ci.yml/badge.svg)
 ![Docker Pulls](https://img.shields.io/badge/docker-ready-blue.svg?logo=docker)
 ![Node.js](https://img.shields.io/badge/Node.js-20.x-green.svg?logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg?logo=postgresql)
